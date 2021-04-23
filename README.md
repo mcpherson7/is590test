@@ -4,7 +4,4 @@ test repo
 ## Project
 test
 
-## Author
-megan7 (UIUC)
-Spring 2021
-command line course
+These are changes I made and want to keep. 
