@@ -2,8 +2,6 @@
 test repo
 
 ## Project
-test
-
-These are changes I made and want to keep. 
-
 (This is my edit to the project!)
+
+Don't forget to pull down changes and update your local version!
